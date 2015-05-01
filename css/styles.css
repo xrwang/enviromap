@@ -162,6 +162,7 @@ header {
 header > a {
   color: #fff;;
   display: inline-block;
+  float: left;
   font-weight: 600;
   height: 50px;
   padding: 12px;
